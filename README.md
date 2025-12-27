@@ -1,4 +1,4 @@
-# Task: For creating a recat web application for storing contacts
+# Task: For creating a react web application for storing contacts
 - Built a React-based contact storage application with a mobile-like UI for a smooth and intuitive user experience.
 - Implemented controlled forms to capture contact name, phone number, and optional profile image URL.
 - Added input validation to prevent empty submissions and ensure valid image URLs with a fallback avatar.
